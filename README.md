@@ -44,4 +44,4 @@ El pipeline realiza las siguientes acciones:
 ## 7. Resultados
 La ejecución local finalizó correctamente con dos pruebas ejecutadas, cero fallas y cero errores.
 
-La ejecución del pipeline en GitHub Actions también finalizó con estado Success.
+La ejecución del pipeline en GitHub Actions también finalizó con estado Success.Prueba de ejecución en rama desarrollo
